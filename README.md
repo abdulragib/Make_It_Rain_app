@@ -1,6 +1,6 @@
-# make_it_rain
+# Make_It_Rain App
 
-A new Flutter project.
+This is a basic flutter project in which we are using stateful widget in flutter.
 
 ## Getting Started
 
