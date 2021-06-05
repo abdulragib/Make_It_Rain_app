@@ -85,3 +85,5 @@ class MakeItRainState extends State<MakeItRain> {
 
 //expanded is A widget that expands a child of a Row, Column, or Flex so that the child fills the available space.
 // expanded used to fill space between child of a column.
+// state is a data that widget used .
+
